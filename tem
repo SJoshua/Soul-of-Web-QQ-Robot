@@ -1,0 +1,2 @@
+obj = io.popen("math", "w")
+obj:write("1+1\n")
